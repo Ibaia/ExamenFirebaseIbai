@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamenIbai</string>
+    <string name="ISBN">ISBN</string>
+    <string name="titulo">Titulo</string>
+    <string name="autor">Autor</string>
+    <string name="año">Año de publicacion</string>
+    <string name="BotonRefresh">Refrescar</string>
+
+    <string name="paddingTextViewLeft">50</string>
+    <string name="paddingTextViewTop">0</string>
+    <string name="paddingTextViewRight">50</string>
+    <string name="paddingTextViewBottom">15</string>
+
+</resources>

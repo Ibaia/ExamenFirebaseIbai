@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464049907540",
+    "firebase_url": "https://firestoreexamenibai.firebaseio.com",
+    "project_id": "firestoreexamenibai",
+    "storage_bucket": "firestoreexamenibai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464049907540:android:c03b3aeee1874debc9cac1",
+        "android_client_info": {
+          "package_name": "com.example.examenibai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464049907540-bshs9ri9dbjkie28kmfmjbplfobim3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztEJE3o5-MbBxeo1O0jlqDBIlKz_3cRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464049907540-bshs9ri9dbjkie28kmfmjbplfobim3c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
